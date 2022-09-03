@@ -2,8 +2,7 @@ package com.bl.basiccoreprograms;
 
 import java.util.Scanner;
 
-public class OddEven {
-	
+	public class OddEven {
 		static void EvenOdd(){
 
 		System.out.println("Enter a number");
